@@ -5,6 +5,11 @@ The game supports both **Player vs Player** and **Player vs AI** modes, with sou
 
 ---
 
+
+🔗 Live Demo: https://luxshayy.github.io/Tic-Tac-Toe/
+
+
+
 ## 🚀 Features
 
 - 🎯 Player vs Player mode
