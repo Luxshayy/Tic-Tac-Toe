@@ -40,7 +40,7 @@ This makes the AI challenging while keeping the logic readable and beginner-frie
 
 ## 📁 Project Structure
 
-ic-tac-toe/
+Tic-tac-toe/
 │── index.html
 │── style.css
 │── script.js
